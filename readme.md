@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/CodeJuan/python_convert_json2lua.svg?branch=master)](https://travis-ci.org/CodeJuan/python_convert_json2lua)
+
+
+
 # usage
 ```sh
 python go.py 'path of json' > aa.lua
